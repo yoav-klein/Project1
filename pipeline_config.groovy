@@ -2,5 +2,5 @@
 
 libraries {
     cmake
-    sonar
+    
 }
