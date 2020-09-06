@@ -1,6 +1,6 @@
 
 
 libraries {
-    maven
+    cmake
     sonar
 }
