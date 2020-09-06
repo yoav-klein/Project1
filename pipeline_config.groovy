@@ -1,0 +1,6 @@
+
+
+libraries {
+    maven
+    sonar
+}
