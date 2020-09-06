@@ -1,6 +1,8 @@
 
 
 libraries {
-    cmake
+    cmake {
+        project = "Sensor"   
+    }
     
 }
