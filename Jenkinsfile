@@ -3,4 +3,6 @@ build()
 
 static_code_analysis()
 
-echo "Hello"
+node('master') {
+  bat script: 'exit 1'
+}
